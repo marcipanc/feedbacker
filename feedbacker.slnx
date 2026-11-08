@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="feedbacker.client/feedbacker.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="feedbacker.Server/feedbacker.Server.csproj" />
+</Solution>

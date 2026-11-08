@@ -1,0 +1,6 @@
+@feedbacker.Server_HostAddress = http://localhost:5188
+
+GET {{feedbacker.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
